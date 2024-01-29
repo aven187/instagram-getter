@@ -36,8 +36,8 @@ instagram = instaloader.Instaloader()
 
 # ======= add bot token ========
 
-admin_id = 111111 # put your user id in telegram
-TOKEN = "Your Token"
+admin_id = 5116624092 # put your user id in telegram
+TOKEN = "6567483910:AAHeveVm0MayU5aSVrfadMWJzffQkw0hqys"
 bot = Bot(TOKEN)
 logger = logging.getLogger(__name__)
 
